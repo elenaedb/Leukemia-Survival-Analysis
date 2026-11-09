@@ -29,10 +29,10 @@ The analysis was developed in R using the following packages:
 Install them using: install.packages(c("survival", "survminer", "ggplot2"))
 
 ## How to Run
-1. Download or clone this repository.
-2. Open 'Leukemia_Survival_Analysis.R' in RStudio.
-3. Install the required packages if necessary.
-4. Run the script to reproduce the statistical analyses and visualizations.
+1. Download or clone this repository
+2. Open 'Leukemia_Survival_Analysis.R' in RStudio
+3. Install the required packages if necessary
+4. Run the script to reproduce the statistical analyses and visualizations
 All figures and statistical results are generated directly in R.
 
 ## Main Findings
@@ -42,10 +42,10 @@ The log-rank test also did not detect a statistically significant difference bet
 These results should be interpreted with caution because of the small sample size and the uncertainty surrounding the estimates.
 
 ## Limitations
-- Small sample size (23 patients).
-- Analysis limited to a single explanatory variable.
-- Limited statistical power to detect differences between treatment groups.
-- Results do not establish a causal effect of treatment.
+- Small sample size (23 patients)
+- Analysis limited to a single explanatory variable
+- Limited statistical power to detect differences between treatment groups
+- Results do not establish a causal effect of treatment
 
 ## Tools and Technologies
 R | Survival Analysis | Kaplan–Meier | Cox Regression | Statistical Modeling
