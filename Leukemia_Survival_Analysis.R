@@ -160,24 +160,18 @@ plot(ph_test, col = "#2864A0", lwd = 2,
 # The analysis included 23 patients, with 18 observed deaths and 
 # 5 censored observations.
 # Overall median survival was 27 weeks (95% CI: 18-45 weeks).
-
 # Median survival was 31 weeks in the Maintained group and
 # 23 weeks in the Nonmaintained group.
-
 # The log-rank test did not detect a statistically significant
 # difference between the two survival curves (p = 0.0653).
-
 # The Cox model estimated a higher hazard of death in the
 # Nonmaintained group compared with the Maintained group
 # (HR = 2.50, 95% CI: 0.92-6.81, Wald p = 0.0737).
-
 # The proportional hazards test did not provide evidence against
 # the PH assumption (p = 0.93).
-
 # Although the results suggest a potential survival benefit
 # associated with maintenance chemotherapy, the differences
 # were not statistically significant at the 5% level.
-
 # Results should be interpreted cautiously due to the small
 # sample size, wide confidence intervals and limited statistical power.
 # No causal conclusions or treatment equivalence can be established.
